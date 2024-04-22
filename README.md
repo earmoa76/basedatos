@@ -1,6 +1,5 @@
 
 ![](https://github.com/earmoa76/basedatos/blob/main/banner.png)
-# Escuela de Programacion 
-## Curso de Base de Datos
+## repositorio de ejercicios
 Marzo 2024
 
